@@ -1,4 +1,3 @@
-# product-card
 # #boraCodar
 
 Projetos #boraCodar da Rocketseat
